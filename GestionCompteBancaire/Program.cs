@@ -68,5 +68,6 @@
             Console.WriteLine("Votre compte bancaire viens d'être fait");
             return compte;
         }
+        private static FaireUnDepot (CompteBabcaire)
     }
 }
